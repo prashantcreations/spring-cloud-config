@@ -1,0 +1,9 @@
+my:
+    greeting: hello world from confgi server
+    list:
+        value: one,two,three
+
+db:
+  connection: connection-string-here-from-config-server
+  host: 127.0.0.1
+  port: 1200
