@@ -1,7 +1,7 @@
 my:
     greeting: hello world from confgi server
     list:
-        value: one,two,three
+        value: one,two,four
 
 db:
   connection: connection-string-here-from-config-server
